@@ -13,4 +13,4 @@ describe "say_hello" do
   end
 end
 
-say_hello
+def greeting(name=)
